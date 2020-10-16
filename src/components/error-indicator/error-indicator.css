@@ -1,0 +1,17 @@
+.error-message {
+    color: orange;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.boom {
+    font-weight: bold;
+}
+
+.error-message p {
+    display: flex;
+    flex-flow: column nowrap;
+}
