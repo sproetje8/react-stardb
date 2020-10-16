@@ -5,6 +5,10 @@
     padding: 1rem;
 }
 
+.card {
+    margin-top: 0;
+}
+
 .person-details .person-image {
     width: 30%;
     height: 30%;
